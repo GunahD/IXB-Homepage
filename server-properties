@@ -1,0 +1,101 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>"IXB Homepage"</title>
+  <style>
+    #tulisan {
+      justify-content:center;
+      align-items:center;
+      display:flex;
+      font-size: 60px;
+      color: blue;
+      position: relative;
+      animation-name: muncul;
+      animation-duration: 3s;
+      animation-timing-function: ease-out;
+      animation-fill-mode: forwards;
+    }
+    @keyframes muncul {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+  </style>
+</head>
+
+</body>
+</html>
+
+
+<body>
+  <div id="tulisan"><b>Welcome To IXB (BETA TEST)</b></div>
+  <p>.</p>
+</body>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+<html>
+<head>
+  <title>About IXB</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    .header {
+      height: 50px;
+      background-color: lightblue;
+    }
+    .menu {
+      float: left;
+      width: 25%;
+      height: 500px;
+      background-color: lightgrey;
+    }
+    .konten {
+      float: left;
+      width: 50%;
+      height: 500px;
+      padding: 20px;
+    }
+    .footer {
+      clear: both;
+      height: 50px;
+      background-color: lightblue;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header"></div>
+
+  <div class="menu">
+    <ul>
+      <li><a href="https://www.instagram.com"><b>Our IXB InstaGram</b></a></li>
+      <li><a href="https://www.google.com"><b>Ada lagi mungkin?</b></a></li>
+    </ul>
+  </div>
+
+  <div class="konten">
+    <h1>💠 About Us 💠</h1>
+    <h2>✨️Struktur Organisasi Kelas✨️</h2>
+    <p><b>👑 Ketua Kelas 👑</b></p>
+    <p>●Nanti<p>
+    <p><b>💎 Wakil Ketua Kelas 💎</p></b>
+    <p>●Nanti</p>
+    <p><b>📋 Sekretaris 📋</p></b>
+    <p>●Nanti<p>
+    <p><b>💰 Bendahara 💰</p></b>
+    <p>●Nanti</p>
+    <h3>Tambah apa lagi?? kalo ada bilang :)</h3>
+  </div>
+
+  <div class="footer"></div>
+</body>
+</html>
+    </main>
+    <footer>
+      <p>&copy; 2023 COPYRIGHT ALL RIGHT RESERVED Made By <u><i><b>Gabriel</u></i></b></p>
+      <p>Thanks :) Ide nya sih Egy tapi dia radak (ekhemcUpU dikit) <b>jadi yang bagusin aku</b></p>
+    </footer>
+  </body>
+</html>
